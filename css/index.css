@@ -82,9 +82,45 @@ body {
 }
 
 .filter-h {
-    color: #2E2F42
+    color: #2E2F42;
 }
 
 .filter-p {
+    color: #434455;
+}
+
+.description {
+    color: #2E2F42;
+}
+
+.description-list {
+    color: #FFFFFF;
+}
+
+.description-info {
+    color: #434455;
+}
+
+.information {
+    color: #2E2F42;
+}
+
+.information-list {
+    color: #FFFFFF
+}
+
+.information-team {
+    color: #2E2F42
+}
+
+.information-team-list {
+    color: #FFFFFF
+}
+
+.team-name {
+    color: #2E2F42
+}
+
+.team-job {
     color: #434455
 }

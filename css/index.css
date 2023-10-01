@@ -184,6 +184,7 @@ body {
 }
 
 .list {
+    list-style: none;
     background-color: #FFFFFF;
 }
 

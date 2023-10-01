@@ -1,3 +1,15 @@
 body{
     font-family: "Roboto", sans-serif;
 }
+.filter-list{
+color: #F4F4FD;
+
+}
+.filter-button{
+background-color: var(--color-main);
+cursor: pointer;
+}
+.filter-button:hover,
+.filter-button:focus{
+    background-color: #404BBF
+}

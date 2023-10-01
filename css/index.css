@@ -1,15 +1,90 @@
-body{
+body {
     font-family: "Roboto", sans-serif;
+    background-color: #FFFFFF;
 }
-.filter-list{
-color: #F4F4FD;
+
+.section {
+    color: #FFFFFF;
+}
+
+.nav {
+    color: #FFFFFF;
+}
+
+.filter-list {
+    color: #FFFFFF;
 
 }
-.filter-button{
-background-color: var(--color-main);
-cursor: pointer;
+
+.btn-order {
+    background-color: #4D5AE5;
+    color: #FFFFFF;
+    cursor: pointer;
 }
+
+.btn-order:hover,
+.btn-order:focus {
+    background-color: #404BBF;
+}
+
+.filter-button {
+    background-color: #F4F4FD;
+    color: #4D5AE5;
+    cursor: pointer;
+}
+
 .filter-button:hover,
-.filter-button:focus{
-    background-color: #404BBF
+.filter-button:focus {
+    background-color: #404BBF;
+    color: #FFFFFF;
+}
+
+.logo {
+    font-family: Raleway;
+    color: #4D5AE5;
+    text-decoration: none;
+}
+
+.logo-second {
+    font-family: Raleway;
+    color: #2E2F42
+}
+
+.logo-second-botom {
+    font-family: Raleway;
+    color: #F4F4FD;
+}
+
+.paragraf-botom {
+    color: #F4F4FD;
+}
+
+.nav-stack {
+    color: #2E2F42;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.nav-stack:hover,
+.nav-stack:focus {
+    color: #404BBF;
+}
+
+.contact {
+    color: #434455;
+    font-style: normal;
+    text-decoration: none;
+}
+
+.contact:hover,
+.contact:focus {
+    color: #404BBF;
+}
+
+.filter-h {
+    color: #2E2F42
+}
+
+.filter-p {
+    color: #434455
 }

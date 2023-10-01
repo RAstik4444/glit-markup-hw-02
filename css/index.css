@@ -3,6 +3,10 @@ body {
     background-color: #FFFFFF;
 }
 
+.section-one {
+    color: #2E2F42;
+}
+
 .main-head {
     font-size: 56px;
     line-height: 1.07;

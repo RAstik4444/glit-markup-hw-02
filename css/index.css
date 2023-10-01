@@ -116,6 +116,8 @@ body {
 }
 
 .paragraf-botom {
+    letter-spacing: 0.02em;
+    line-height: 1.5;
     color: var(--light-color);
 }
 

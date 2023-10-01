@@ -167,10 +167,6 @@ body {
     color: #2E2F42;
 }
 
-.description-list {
-    color: #FFFFFF;
-}
-
 .description-info {
     letter-spacing: 0.02em;
     line-height: 1.5;
@@ -217,10 +213,6 @@ body {
 
 .list-team {
     background-color: #FFFFFF
-}
-
-.team-name {
-    color: #2E2F42
 }
 
 .team-job {

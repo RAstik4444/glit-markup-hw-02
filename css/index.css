@@ -76,7 +76,7 @@ body {
     list-style: none;
 }
 
-.list-logo {
+.logo-link {
     font-family: "Raleway", sans-serif;
     font-weight: 800;
     font-size: 18px;
@@ -87,7 +87,11 @@ body {
     text-decoration: none;
 }
 
-.list-logo-second {
+.link {
+    text-decoration: none;
+}
+
+.logo-studio {
     font-family: Raleway;
     color: var(--dark-color);
 }

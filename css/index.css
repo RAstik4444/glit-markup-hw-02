@@ -87,7 +87,6 @@ body {
 }
 
 .link {
-    color: var(--text-color);
     text-decoration: none;
 }
 
@@ -107,7 +106,7 @@ body {
 }
 
 .logo-studio-footer {
-    color: var(--primary-brand-color);
+    color: var(--light-color);
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
@@ -117,7 +116,7 @@ body {
 }
 
 .paragraf-botom {
-    color: #2E2F42;
+    color: var(--light-color);
 }
 
 .list-nav {

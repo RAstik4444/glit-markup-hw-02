@@ -156,8 +156,8 @@ body {
     color: #2E2F42
 }
 
-.information-team-list {
-    color: #FFFFFF
+.list-team {
+    background-color: #FFFFFF
 }
 
 .team-name {
@@ -165,5 +165,7 @@ body {
 }
 
 .team-job {
+    letter-spacing: 0.02em;
+    line-height: 1.5;
     color: #434455
 }

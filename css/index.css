@@ -15,10 +15,6 @@ body {
     color: #FFFFFF;
 }
 
-.section {
-    color: #FFFFFF;
-}
-
 .list-navigator {
     font-weight: 500;
     font-size: 16px;
@@ -117,6 +113,10 @@ body {
 }
 
 .description {
+    font-weight: 500;
+    letter-spacing: 0.02em;
+    line-height: 1.2;
+    font-size: 20px;
     color: #2E2F42;
 }
 
@@ -125,10 +125,17 @@ body {
 }
 
 .description-info {
+    letter-spacing: 0.02em;
+    line-height: 1.5;
     color: #434455;
 }
 
 .information {
+    text-transform: capitalize;
+    letter-spacing: 0.02em;
+    text-align: center;
+    line-height: 1.11;
+    font-size: 36px;
     color: #2E2F42;
 }
 
@@ -136,7 +143,16 @@ body {
     color: #FFFFFF
 }
 
+.team {
+    background-color: #F4F4FD;
+}
+
 .information-team {
+    text-transform: capitalize;
+    letter-spacing: 0.02em;
+    text-align: center;
+    line-height: 1.11;
+    font-size: 36px;
     color: #2E2F42
 }
 

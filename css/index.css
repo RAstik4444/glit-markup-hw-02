@@ -7,8 +7,9 @@ body {
     color: #FFFFFF;
 }
 
-.nav {
+.list {
     color: #FFFFFF;
+    text-decoration: none;
 }
 
 .filter-list {
@@ -39,7 +40,7 @@ body {
     color: #FFFFFF;
 }
 
-.logo {
+.list-logo {
     font-family: Raleway;
     font-weight: 800;
     font-size: 18px;
@@ -50,12 +51,12 @@ body {
     text-decoration: none;
 }
 
-.logo-second {
+.list-logo-second {
     font-family: Raleway;
     color: #2E2F42
 }
 
-.logo-second-botom {
+.list-logo-botom {
     font-family: Raleway;
     color: #F4F4FD;
 }
@@ -67,7 +68,6 @@ body {
 .nav-stack {
     color: #2E2F42;
     cursor: pointer;
-    text-decoration: none;
 }
 
 .nav-stack:hover,

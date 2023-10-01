@@ -107,7 +107,7 @@ body {
 }
 
 .logo-studio-footer {
-    color: var(--light-color);
+    color: var(--primary-brand-color);
     line-height: 1.5;
     letter-spacing: 0.02em;
 }

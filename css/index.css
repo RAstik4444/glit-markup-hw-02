@@ -7,9 +7,8 @@ body {
     color: #FFFFFF;
 }
 
-.list {
+.list-navigator {
     color: #FFFFFF;
-    text-decoration: none;
 }
 
 .filter-list {
@@ -65,13 +64,14 @@ body {
     color: #F4F4FD;
 }
 
-.nav-stack {
+.list-nav {
     color: #2E2F42;
     cursor: pointer;
+    text-decoration: none;
 }
 
-.nav-stack:hover,
-.nav-stack:focus {
+.list-nav:hover,
+.list-nav:focus {
     color: #404BBF;
 }
 

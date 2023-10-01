@@ -4,6 +4,15 @@ body {
     background-color: #FFFFFF;
 }
 
+:root {
+    --primary-brand-color: #4d5ae5;
+    --pressed-state-color: #404BBF;
+    --dark-color: #2E2F42;
+    --text-color: #434455;
+    --light-color: #F4F4FD;
+    --white-background-color: #ffffff;
+}
+
 .section-one {
     background-color: #2E2F42;
 }
@@ -80,7 +89,7 @@ body {
 
 .list-logo-second {
     font-family: Raleway;
-    color: #2E2F42
+    color: var(--dark-color);
 }
 
 .link-logo-botom {

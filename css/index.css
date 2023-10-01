@@ -136,6 +136,8 @@ body {
     color: #434455;
     font-style: normal;
     text-decoration: none;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
 
 .contact:hover,
@@ -180,6 +182,13 @@ body {
 
 .information-list {
     color: #FFFFFF
+}
+
+.studio {
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: var(--dark-color);
 }
 
 .team {
